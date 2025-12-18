@@ -1,0 +1,8 @@
+linkedin:
+  username: ""
+  password: ""
+
+headless: false
+
+limits:
+  daily_connections: 40
